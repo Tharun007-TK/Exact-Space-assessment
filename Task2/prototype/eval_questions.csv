@@ -1,0 +1,10 @@
+question,ground_truth_answer,relevant_sources
+What is the maximum sustained power output in kilowatts?,"The maximum sustained power output is 45kW, with peak burst capacity of 55kW.".,manual_v1.0.pdf
+How do you clear an E-24 thermal overload error?,"The E-24 error requires a system power cycle and waiting 15 minutes for the thermal fuses to reset.",troubleshooting_guide.pdf
+List the required PPE when operating the hydraulic pump?,"Operators must wear safety glasses, a high-visibility vest, and reinforced gloves.",safety_sheet.pdf;manual_v1.0.pdf
+What are the key differences between Model A and Model B cooling systems?,"Model A uses an active liquid-cool system, while Model B relies solely on passive air cooling with integrated heat sinks.",manual_v1.0.pdf
+What is the current stock price of the manufacturing company?,"I cannot find the answer in the documents.",""
+What is the default IP address for the diagnostic panel?,"The diagnostic panel's default IP address is 192.168.1.254, which can be changed in network settings.",manual_v1.0.pdf
+Summarize the weekly preventative maintenance checklist in three steps?,"The checklist includes 1) Verifying fluid levels, 2) Cleaning the intake filters, and 3) Running the full system diagnostic sequence.",maintenance_log.pdf
+"If the system pressure drops below 20 PSI, what must the operator do before restarting?","The operator must visually inspect all coupling seals for leaks and verify that the reservoir is filled above the minimum line.",troubleshooting_guide.pdf
+What is the required torque specification for the main chassis bolts?,"The main chassis bolts require a torque of 150 Newton-meters (Nm) according to the assembly diagrams.",manual_v1.0.pdf
