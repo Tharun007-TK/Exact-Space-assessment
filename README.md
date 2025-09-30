@@ -31,20 +31,18 @@ Exact-Space-assessment/
 │       ├── anomaly_example_[1-3].png
 │       └── forecast_comparison.png
 └── Task2/                                       # RAG System Implementation
-    ├── prototype/                               # Main implementation
-    │   ├── rag_prototype.py                     # Complete RAG system
-    │   ├── README.md                            # Task 2 documentation
-    │   ├── requirements.txt                     # Python dependencies
-    │   ├── eval_questions.csv                   # Test questions
-    │   ├── evaluation.csv                       # Performance metrics
-    │   ├── notes.md                             # Design decisions
-    │   ├── docs/                                # Technical PDFs (11 files)
-    │   └── rag_index/                           # Generated vector index
-    │       ├── faiss.index
-    │       └── chunks.pkl
-    └── slides/                                  # Presentation materials
-        ├── architecture_diagram.md
-        └── powerpoint_conversion_guide.md
+     |── prototype/                               # Main implementation
+        ├── rag_prototype.py                     # Complete RAG system
+        ├── README.md                            # Task 2 documentation
+        ├── requirements.txt                     # Python dependencies
+        ├── eval_questions.csv                   # Test questions
+        ├── evaluation.csv                       # Performance metrics
+        ├── notes.md                             # Design decisions
+        ├── docs/                                # Technical PDFs (11 files)
+        └── rag_index/                           # Generated vector index
+            ├── faiss.index
+            └── chunks.pkl
+    
 ```
 
 ---
@@ -306,5 +304,6 @@ RELEVANCE_THRESHOLD = 1.5  # Distance threshold for relevance
 **Last Updated**: September 30, 2025
 
 ---
+
 
 *This project demonstrates proficiency in industrial data analysis, machine learning operations, and modern NLP techniques. All code is production-ready and follows industry best practices for maintainability and scalability.*
