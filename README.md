@@ -291,7 +291,7 @@ RELEVANCE_THRESHOLD = 1.5  # Distance threshold for relevance
 
 | Property | Value |
 |----------|-------|
-| **Author** | [Your Name] |
+| **Author** | Tharun Kumar V
 | **Created** | September 2025 |
 | **Language** | Python 3.8+ |
 | **License** | MIT |
